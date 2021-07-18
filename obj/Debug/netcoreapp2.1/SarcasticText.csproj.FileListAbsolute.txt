@@ -1,0 +1,11 @@
+E:\CodeProjects\SarcasticText\bin\Debug\netcoreapp2.1\SarcasticText.deps.json
+E:\CodeProjects\SarcasticText\bin\Debug\netcoreapp2.1\SarcasticText.runtimeconfig.json
+E:\CodeProjects\SarcasticText\bin\Debug\netcoreapp2.1\SarcasticText.runtimeconfig.dev.json
+E:\CodeProjects\SarcasticText\bin\Debug\netcoreapp2.1\SarcasticText.dll
+E:\CodeProjects\SarcasticText\bin\Debug\netcoreapp2.1\SarcasticText.pdb
+E:\CodeProjects\SarcasticText\obj\Debug\netcoreapp2.1\SarcasticText.csprojAssemblyReference.cache
+E:\CodeProjects\SarcasticText\obj\Debug\netcoreapp2.1\SarcasticText.csproj.CoreCompileInputs.cache
+E:\CodeProjects\SarcasticText\obj\Debug\netcoreapp2.1\SarcasticText.AssemblyInfoInputs.cache
+E:\CodeProjects\SarcasticText\obj\Debug\netcoreapp2.1\SarcasticText.AssemblyInfo.cs
+E:\CodeProjects\SarcasticText\obj\Debug\netcoreapp2.1\SarcasticText.dll
+E:\CodeProjects\SarcasticText\obj\Debug\netcoreapp2.1\SarcasticText.pdb
